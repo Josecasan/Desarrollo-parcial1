@@ -23,3 +23,6 @@ CSS3: Estilos y diseño responsivo, incluyendo Flexbox y Grid.
 JavaScript (ES6+): Funcionalidad interactiva como el filtrado de productos, carrusel, alertas, smooth scrolling, animaciones y contador de tiempo.
 Font Awesome: Iconos para mejorar la interfaz de usuario.
 Google Fonts: Fuente 'Poppins' para una tipografía moderna.
+# Proyecto educativo
+
+Este login es solo para fines educativos. **No uses este método en aplicaciones reales** porque las credenciales están visibles en el código y no es seguro.
